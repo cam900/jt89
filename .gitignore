@@ -1,5 +1,5 @@
 *fst
 *bak
-.vscode/
+.vscode/*
 ver/verilator/log
 ver/verilator/obj_dir
